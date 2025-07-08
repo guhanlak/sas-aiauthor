@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+python-jose[cryptography]
+passlib[bcrypt]
+openai
+motor
+qdrant-client
+python-multipart
+firebase-admin
+python-dotenv
+requests
+tqdm
